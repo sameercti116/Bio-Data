@@ -1,0 +1,25 @@
+.image{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 20px;
+    right: 30px;
+    background: url(image.jpg)center;
+    background-size: cover;
+}
+.content{
+    font-size: 25px;
+    color: rgb(64, 0, 255);
+    font-weight: 600;
+    font-style: normal;
+    font-weight: 500;
+    padding-left: 50px;
+}
+#hed {
+    font-size: 45px; 
+    color: rgb(10, 248, 69);
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-align: center;
+}
